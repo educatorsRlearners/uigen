@@ -1,0 +1,44 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e3]:
+    - generic [ref=f3e5]:
+      - heading "React Component Generator" [level=1] [ref=f3e7]
+      - generic [ref=f3e9]:
+        - generic [ref=f3e52]:
+          - generic [ref=f3e53]:
+            - generic [ref=f3e56]: Create a pricing card component with a title, price, list of features, and a CTA button.
+            - img [ref=f3e59]
+          - generic [ref=f3e62]:
+            - img [ref=f3e65]
+            - generic [ref=f3e70]:
+              - paragraph [ref=f3e72]: This is a static response. You can place an Anthropic API key in the .env file to use the Anthropic API for component generation. Let me create an App.jsx file to display the component.
+              - generic [ref=f3e75]: Creating /App.jsx
+              - separator [ref=f3e76]
+              - paragraph [ref=f3e78]: I'll create a Card component for you.
+              - generic [ref=f3e81]: Creating /components/Card.jsx
+              - separator [ref=f3e82]
+              - paragraph [ref=f3e84]: Now let me enhance the component with better styling.
+              - generic [ref=f3e87]: Editing /components/Card.jsx
+              - separator [ref=f3e88]
+              - paragraph [ref=f3e90]: Perfect! I've creat
+              - generic [ref=f3e91]:
+                - img [ref=f3e92]
+                - generic [ref=f3e94]: Generating...
+        - generic [ref=f3e19]:
+          - textbox "Describe the React component you want to create..." [disabled] [ref=f3e20]
+          - button [disabled] [ref=f3e21]:
+            - img [ref=f3e22]
+    - separator [ref=f3e25]
+    - generic [ref=f3e27]:
+      - generic [ref=f3e28]:
+        - tablist [ref=f3e30]:
+          - tab "Preview" [selected] [ref=f3e31]
+          - tab "Code" [ref=f3e32]
+        - generic [ref=f3e33]:
+          - button "Sign In" [ref=f3e34]
+          - button "Sign Up" [ref=f3e35]
+      - iframe [ref=f3e95]:
+        - generic [ref=f5e6]:
+          - heading "Amazing Product" [level=3] [ref=f5e7]
+          - paragraph [ref=f5e8]: This is a fantastic product that will change your life. Experience the difference today!
+          - button "Learn More" [ref=f5e10] [cursor=pointer]
+  - alert [ref=f3e46]
